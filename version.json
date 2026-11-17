@@ -1,0 +1,8 @@
+{
+  "version": "1.2.0",
+  "download_url": "https://github.com/wave5ald/waveboard/releases/download/v1.2.0/WaveBoard-1.2.0-Setup.exe",
+  "release_notes": "Wave Board now checks for updates when it opens: one click downloads the new installer, verifies its checksum and restarts into the new version.",
+  "release_page": "https://github.com/wave5ald/waveboard/releases",
+  "sha256": "d8691c689077c0c2934fc9602f421abc1b52f5ad7850b28c7fc02d5c8482a065",
+  "size_bytes": 75326190
+}
